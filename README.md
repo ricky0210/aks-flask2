@@ -1,5 +1,5 @@
-[![Build Status](https://dev.azure.com/askcompany-kr/azuredevcamp_with_aks/_apis/build/status/azuredevcamp_with_aks-CI?branchName=master)](https://dev.azure.com/askcompany-kr/azuredevcamp_with_aks/_build/latest?definitionId=8&branchName=master)
+[![Build Status](https://dev.azure.com/a-eye/aeye-server/_apis/build/status/aeye-server-CI?branchName=master)](https://dev.azure.com/a-eye/aeye-server/_build/latest?definitionId=1&branchName=master)
 
-# Azure Dev Camp 20190612
+# aks example
 
-이진석
+Ricky
